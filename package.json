@@ -32,7 +32,7 @@
       "title": "Llama 3.1 8B",
       "provider": "together",
       "model": "llama3.1-405b",
-      "apiKey": "<ec9520d163d357d5ed7414ed993c027fdcd36c7d5c64149811fcc85f201db981>"
+      "apiKey": ""
     }
   ],
   "scripts": {
